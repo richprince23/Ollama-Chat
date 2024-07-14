@@ -9,7 +9,7 @@ Welcome to Ollama Chat, a web app built with Vue that enables users to chat with
 - User-friendly interface for easy conversation
 
 ## Getting Started
-1. Clone the repository: `git clone (link unavailable)`
+1. Clone the repository: `git clone `
 2. Install dependencies: `npm install`
 3. Start the app: `npm run dev` or `npm run build` to compile the app to run without serving with vite
 4. Open the app in your browser: [http://localhost:5173](http://localhost:5173) or your dedicated Vite port
