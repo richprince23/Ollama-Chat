@@ -36,6 +36,7 @@ This project is licensed under the MIT License.
 - Vue.js for the web app framework
 
 ## Contact
+    Richard Kweku Aikins
 - Email: 
 - GitHub: ([Richprince23](https://github.com/richprince23))
 
